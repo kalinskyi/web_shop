@@ -1,4 +1,19 @@
-p {
-	color: black;
-	font-size: 25pt;
+html {
+	margin, padding: 0px;
+}
+
+head {
+	background-color: black;
+}
+div.top-bar {
+	color: red;
+	background-color: black;
+	margin: 0 20%;
+}
+div.top-bar p {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	font-size: 49pt;
+	color: rgb(56,195,182);
 }
